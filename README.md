@@ -1,4 +1,4 @@
-# Excek-Sales-Analytics
+# Excel-Sales-Analytics
 AtliQ -- Sales Analysis
 
 ## Sales Report :
